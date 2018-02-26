@@ -1,3 +1,4 @@
-const _ = require('lodash');
-
-_.debounce()
+const person = {
+    name: 'chris',
+    username: 'chrisoncode'
+}
